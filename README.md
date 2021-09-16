@@ -11,6 +11,8 @@ Sprint I
 - laborar Layout das páginas
 - Seleção de imagens
 - Elaboração dos textos
+
+
     Estimativa 3 horas
   
  ##
@@ -18,6 +20,8 @@ Sprint I
   Sprint II
   
  -Estrutura HTML das páginas
+ 
+ 
     Estimativa 5 horas
     
  ##
