@@ -1,0 +1,17 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar-brand
+{
+    font-size: 2re;
+    font-family: 'Gluten', cursive;
+}
+h1
+{
+    font-weight: 700;
+}
