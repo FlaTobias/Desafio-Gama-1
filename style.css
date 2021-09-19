@@ -8,10 +8,71 @@
 
 .navbar-brand
 {
-    font-size: 2re;
+    font-size: 25px;
     font-family: 'Gluten', cursive;
+    font-weight: 700;
 }
 h1
 {
     font-weight: 700;
+}
+
+
+.card:hover
+{
+    -webkit-box-shadow: 1px 9px 27px 11px #000000; 
+    box-shadow: 1px 9px 27px 11px #000000;
+    transition: 0.5s;
+}
+
+.sub h6
+{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.sub
+{
+    background-color: black;
+
+}
+.sub input
+{
+height: 51px;
+width: 50%;
+color: black;
+outline: none;
+padding: 10px;
+}
+.parallex
+{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./Imagens/Loja.jpg)no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+}
+.parallex h1
+{
+font-size: 55px;
+font-weight: 700;
+}
+.parallex p
+{
+    font-size: 22px;
+}
+.btn2
+{
+    height: 40px;
+    width: 110px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    outline: none;
+    border-radius: 4px;
+}
+.btn2:hover
+{
+    background-color: white;
+    color: black;
+    transition: 0.3s;
 }
