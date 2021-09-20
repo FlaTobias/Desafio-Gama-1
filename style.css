@@ -12,11 +12,31 @@
     font-family: 'Gluten', cursive;
     font-weight: 700;
 }
-h1
+.h1
 {
-    font-weight: 700;
+    font-size: medium;
 }
-
+.underline
+{
+    height: 3px;
+    width: 100px;
+    background-color: blue;
+}
+.btn:focus
+{
+    outline: none!important;
+    box-shadow: none!important;
+}
+.btn-primary
+{
+    background-color: #fff!important;
+    border: none;
+}
+.btn-primary:hover
+{
+    background-color: blue!important;
+    color: #fff!important;
+}
 
 .card:hover
 {
