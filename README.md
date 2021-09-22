@@ -2,7 +2,7 @@
 Projeto curso Gama XP39
 
 <div>
-<a href="https://meuqueridopet.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/SIte-Meu%20Querido%20Pet-blue"></a>
+<a href="https://meuqueridopet.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Site-Meu%20Querido%20Pet-blue"></a>
 </div>
 
  # Scrum do Projeto
